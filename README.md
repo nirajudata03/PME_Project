@@ -1,6 +1,43 @@
+# 🌞 Solar Powered Dehydration Plant Website
+
+A frontend-focused academic project that presents a **solar powered food dehydration plant**, its features, working principle, and business potential.  
+This project is designed using **React + Tailwind CSS** with minimal backend usage as per project requirements.
 
 ---
 
+## 📌 Project Overview
+
+The goal of this project is to design and develop a **responsive, informative, and user-friendly website** for a solar powered dehydration plant.  
+The website explains:
+- What a solar dehydration plant is
+- How it works
+- Product and business use cases
+- Contact and inquiry details
+
+This is a **college project** with a future scope of selling dehydration plants.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React JS**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+
+### Backend (Minimal Use)
+- No heavy backend logic
+- Optional simple API / form handling (if required)
+- Static or mock data for most sections
+
+### Tools & Platforms
+- **Git & GitHub** (version control & collaboration)
+- **VS Code** (development)
+- **GitHub Pages / Vercel / Netlify** (deployment)
+
+---
 ## 📊 Data Handling Approach
 
 Since this project uses **minimal backend**, data handling is done mainly on the frontend.
@@ -57,85 +94,3 @@ Since this project uses **minimal backend**, data handling is done mainly on the
 - Basic contact information
 
 ---
-
-## 👥 Team Structure (12 Members)
-
-| Role | Responsibilities |
-|----|------------------|
-| Project Coordinator | Overall project monitoring |
-| Frontend Lead | UI structure & component planning |
-| UI/UX Designer | Layout & design consistency |
-| React Developers | Component development |
-| Content Team | Website content & descriptions |
-| Documentation Team | Report & GitHub documentation |
-| Testing Team | UI testing & responsiveness |
-
-> **Note:** Names are intentionally left blank and can be added later.
-
----
-
-## 🗓 Weekly Work Plan (6 Weeks)
-
-### Week 1
-- Requirement analysis
-- Technology selection
-- Project planning
-
-### Week 2
-- UI wireframes
-- Folder structure setup
-- Tailwind configuration
-
-### Week 3
-- Home & About page development
-- Reusable components creation
-
-### Week 4
-- Working & Products pages
-- Static data integration
-
-### Week 5
-- Contact form
-- Testing & UI improvements
-
-### Week 6
-- Final testing
-- GitHub documentation
-- Deployment
-
----
-
-## 🔄 Version Control & Communication
-
-- **GitHub** used for:
-  - Code collaboration
-  - Version tracking
-  - Issue management
-- Each member works on separate branches
-- Pull requests used for merging code
-
----
-
-## 🚀 Future Enhancements
-
-- Backend integration
-- Admin dashboard
-- Online product inquiry system
-- Payment gateway
-- Database integration
-
----
-
-## 📜 License
-
-This project is created for **academic purposes**.  
-Free to use and modify for learning and educational use.
-
----
-
-## 🙌 Acknowledgment
-
-This project is developed as part of a **college academic curriculum** focusing on sustainable energy solutions and web development.
-
----
-
